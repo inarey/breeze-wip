@@ -13,24 +13,23 @@ module.exports = {
           700: '#81544f',
           900: '#5e3e3d',
         },
-        accent: '#f274a7'
+        accent: '#f274a7',
       },
       neutral: {
         50: '#f7f7f7',
         100: '#ededed',
         500: '#a1a1a1',
         700: '#7b7b7b',
-        950: '#363636'
+        950: '#363636',
       },
       shades: {
         blk: '#0b0b0b',
-        white: '#f8f8f8'
-      }
+        white: '#f8f8f8',
+      },
     },
     fontFamily: {
-      body: ['"Noto Sans", sans-serif']
-    }
+      'body': ['"Noto Sans", sans-serif'],
+    },
   },
   plugins: [],
 };
-

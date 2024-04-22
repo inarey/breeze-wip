@@ -1,21 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap') @tailwind base;
 
-.font-body{
-  font-family: "Noto Sans", sans-serif
-}
-
-.text-5xl{
+.heading1{
+  font-family: "Noto Sans", sans-serif;
   font-size: 3rem;
-  line-height: 1
-}
-
-.font-bold{
-  font-weight: 700
-}
-
-.text-primary-600{
+  line-height: 1;
   --tw-text-opacity: 1;
-  color: rgb(153 104 97 / var(--tw-text-opacity))
+  color: rgb(94 62 61 / var(--tw-text-opacity))
 }
-
-

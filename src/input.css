@@ -4,4 +4,8 @@
 @tailwind components;
 @tailwind utilities;
 
-
+@layer components {
+  .heading1 {
+    @apply font-body text-5xl text-primary-900 ;
+  }
+}
