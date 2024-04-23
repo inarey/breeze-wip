@@ -6,6 +6,12 @@
 
 @layer components {
   .heading1 {
-    @apply font-body text-5xl text-primary-900 ;
+    @apply font-body text-5xl text-neutral-950 ;
+  }
+}
+
+@layer utilities {
+  .info-text {
+    @apply text-base text-neutral-950 font-body;
   }
 }

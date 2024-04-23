@@ -5,5 +5,13 @@
   font-size: 3rem;
   line-height: 1;
   --tw-text-opacity: 1;
-  color: rgb(94 62 61 / var(--tw-text-opacity))
+  color: rgb(54 54 54 / var(--tw-text-opacity))
+}
+
+.info-text{
+  font-family: "Noto Sans", sans-serif;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  --tw-text-opacity: 1;
+  color: rgb(54 54 54 / var(--tw-text-opacity))
 }
